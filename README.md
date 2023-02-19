@@ -30,30 +30,17 @@
  
  #### 1. 
  [```Тест план и майнд карта```](https://docs.google.com/spreadsheets/d/17ct-j2xUs0r2bOyAvmSR40z9K5AIngSeAuoDz002-GM/edit#gid=1099382375).
- #### 2. Тест-кейсы и чек листы
- https://docs.google.com/spreadsheets/d/1kNVEC6DmQ-4eW3KGv5gtnpcPsZzldFTSqxwtw7L3nN0/edit#gid=162382526).
- #### 3. Баг репорты
- (https://docs.google.com/spreadsheets/d/1od50aSlSG6OdndgELfLuLPidYfcbAu4klpviIQdBwjo/edit#gid=507817152).
- #### 4. Тест дизайен 
- (https://docs.google.com/spreadsheets/d/1PAHORjy-yOKeuwwnIgOsQ06iW84o8S94kY2E7MKG3lE/edit#gid=569724902).
- #### 5. Запросы SQL
- (https://docs.google.com/spreadsheets/d/11xZBE01WkpvuLIxpm7ZQa4Mp4AVqM64VwayhV_QI0YA/edit#gid=1354998212). 
- #### 6. API заросы
- (https://docs.google.com/spreadsheets/d/1apPxHsBzREPKfYZOL4MWwy4nWjjSw77NW6S_gmiw6jk/edit#gid=816199452).
- #### 7. Сессионое тестирование
-  (https://docs.google.com/spreadsheets/d/13PlN6IOCcTalMaw4tXNEDQ-dlvMM7IYXPmWr6tiByY8/edit#gid=1755086950).
+ #### 2. 
+ [```Тест-кейсы и чек листы```] https://docs.google.com/spreadsheets/d/1kNVEC6DmQ-4eW3KGv5gtnpcPsZzldFTSqxwtw7L3nN0/edit#gid=162382526).
+ #### 3. 
+ [``` Баг репорты```] (https://docs.google.com/spreadsheets/d/1od50aSlSG6OdndgELfLuLPidYfcbAu4klpviIQdBwjo/edit#gid=507817152).
+ #### 4. 
+ [```Тест дизайн```] (https://docs.google.com/spreadsheets/d/1PAHORjy-yOKeuwwnIgOsQ06iW84o8S94kY2E7MKG3lE/edit#gid=569724902).
+ #### 5. 
+ [```SQL запросы```] (https://docs.google.com/spreadsheets/d/11xZBE01WkpvuLIxpm7ZQa4Mp4AVqM64VwayhV_QI0YA/edit#gid=1354998212). 
+ #### 6. 
+ [```API запросы```] (https://docs.google.com/spreadsheets/d/1apPxHsBzREPKfYZOL4MWwy4nWjjSw77NW6S_gmiw6jk/edit#gid=816199452).
+ #### 7. 
+ [```Сессионое тестирование```] (https://docs.google.com/spreadsheets/d/13PlN6IOCcTalMaw4tXNEDQ-dlvMM7IYXPmWr6tiByY8/edit#gid=1755086950).
  
  
-<!--
-**vmakosov/vmakosov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
