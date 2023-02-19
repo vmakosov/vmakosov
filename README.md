@@ -31,7 +31,7 @@
  #### 1. 
  [```Тест план и майнд карта```](https://docs.google.com/spreadsheets/d/17ct-j2xUs0r2bOyAvmSR40z9K5AIngSeAuoDz002-GM/edit#gid=1099382375).
  #### 2. 
- [```Тест-кейсы и чек листы```]https://docs.google.com/spreadsheets/d/1kNVEC6DmQ-4eW3KGv5gtnpcPsZzldFTSqxwtw7L3nN0/edit#gid=162382526).
+ [```Тест-кейсы и чек листы```](https://docs.google.com/spreadsheets/d/1kNVEC6DmQ-4eW3KGv5gtnpcPsZzldFTSqxwtw7L3nN0/edit#gid=162382526).
  #### 3. 
  [``` Баг репорты```](https://docs.google.com/spreadsheets/d/1od50aSlSG6OdndgELfLuLPidYfcbAu4klpviIQdBwjo/edit#gid=507817152).
  #### 4. 
