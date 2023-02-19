@@ -22,14 +22,14 @@
 В настоящее время продолжаю обучаться.
 С сентября 2022 года студент курса "Основы тестирования ПО в [Школе Седого Тестировщика](https://sedtest-school.ru/).
 
-Меня зовут Макосов Владимир Вот мое [```резюме```](https://novosibirsk.hh.ru/resume/f5d03206ff0b8314160039ed1f6e726a4b596d). 
+Вот мое [```Резюме```](https://novosibirsk.hh.ru/resume/f5d03206ff0b8314160039ed1f6e726a4b596d). 
 
 
 
 Здесь собрано мое портфолио на основе проекта , с которыми я работал в рамках курса "Основы тестирования ПО":
  
- #### 1. Тест план и майнд карта
- (https://docs.google.com/spreadsheets/d/17ct-j2xUs0r2bOyAvmSR40z9K5AIngSeAuoDz002-GM/edit#gid=1099382375).
+ #### 1. 
+ [```Тест план и майнд карта```](https://docs.google.com/spreadsheets/d/17ct-j2xUs0r2bOyAvmSR40z9K5AIngSeAuoDz002-GM/edit#gid=1099382375).
  #### 2. Тест-кейсы и чек листы
  https://docs.google.com/spreadsheets/d/1kNVEC6DmQ-4eW3KGv5gtnpcPsZzldFTSqxwtw7L3nN0/edit#gid=162382526).
  #### 3. Баг репорты
