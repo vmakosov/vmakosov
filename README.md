@@ -37,5 +37,5 @@
  #### 7. 
  [```Сессионое тестирование```](https://docs.google.com/spreadsheets/d/13PlN6IOCcTalMaw4tXNEDQ-dlvMM7IYXPmWr6tiByY8/edit#gid=1755086950).
  
- ***<v.a.makosov@gmail.com>*** | **<t.me/vamakosov">Telegram</a>**
+ ***<v.a.makosov@gmail.com>*** | **<https://t.me/vamakosov">Telegram</a>**
  
